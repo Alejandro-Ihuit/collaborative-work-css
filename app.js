@@ -9,3 +9,13 @@ function login() {
 
     //other line of code
 }
+
+
+//alex
+
+function suma(x, y) {
+
+    return x + y
+}
+
+console.log(suma(10, 40));
